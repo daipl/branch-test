@@ -1,1 +1,1 @@
-console.log('Hello from the master branch')
+console.log('Hello from the master branch v1.1')
